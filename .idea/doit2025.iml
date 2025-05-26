@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/chapter4/personalitytest_final_code/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/chapter4/personalitytest_final_code/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/chapter4/personalitytest_final_code/build" />
+      <excludeFolder url="file://$MODULE_DIR$/chapter4/personalitytest_start/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/chapter4/personalitytest_start/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/chapter4/personalitytest_start/build" />
+      <excludeFolder url="file://$MODULE_DIR$/chapter5/mybudongsan_final_code/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/chapter5/mybudongsan_final_code/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/chapter5/mybudongsan_final_code/build" />
+      <excludeFolder url="file://$MODULE_DIR$/chapter5/mybudongsan_start/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/chapter5/mybudongsan_start/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/chapter5/mybudongsan_start/build" />
+      <excludeFolder url="file://$MODULE_DIR$/chapter6/classic_sound_final_code/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/chapter6/classic_sound_final_code/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/chapter6/classic_sound_final_code/build" />
+      <excludeFolder url="file://$MODULE_DIR$/chapter6/classic_sound_start/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/chapter6/classic_sound_start/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/chapter6/classic_sound_start/build" />
+      <excludeFolder url="file://$MODULE_DIR$/chapter7/honeybee_final_code/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/chapter7/honeybee_final_code/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/chapter7/honeybee_final_code/build" />
+      <excludeFolder url="file://$MODULE_DIR$/chapter7/honeybee_start/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/chapter7/honeybee_start/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/chapter7/honeybee_start/build" />
+      <excludeFolder url="file://$MODULE_DIR$/chapter8/crafty_final_code/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/chapter8/crafty_final_code/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/chapter8/crafty_final_code/build" />
+      <excludeFolder url="file://$MODULE_DIR$/chapter8/crafty_start/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/chapter8/crafty_start/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/chapter8/crafty_start/build" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
