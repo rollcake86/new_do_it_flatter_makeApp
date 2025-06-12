@@ -1,6 +1,8 @@
-import 'package:firebase_vertexai/firebase_vertexai.dart';
+import 'package:firebase_ai/firebase_ai.dart';
+import 'package:firebase_auth/firebase_auth.dart';
 
-final model = FirebaseVertexAI.instance.generativeModel(
+final googleAI = FirebaseAI.googleAI(auth: FirebaseAuth.instance);
+final model = googleAI.generativeModel(
     model: 'gemini-2.0-flash',
     generationConfig: GenerationConfig(
       maxOutputTokens: 8192,

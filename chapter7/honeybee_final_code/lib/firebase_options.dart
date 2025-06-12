@@ -47,32 +47,32 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyDGQ0N3EPSnM9-aUVewnzyqzn3iZ9211wE',
-    appId: '1:504369550146:web:2012c8331ed44b83a6eedb',
-    messagingSenderId: '504369550146',
-    projectId: 'example-20efe',
-    authDomain: 'example-20efe.firebaseapp.com',
-    databaseURL: 'https://example-20efe-default-rtdb.firebaseio.com',
-    storageBucket: 'example-20efe.appspot.com',
-    measurementId: 'G-L4MYBBW5LB',
+    apiKey: '',
+    appId: '',
+    messagingSenderId: '',
+    projectId: '',
+    authDomain: '',
+    databaseURL: '',
+    storageBucket: '',
+    measurementId: '',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyBHseFBGckA1eB5Nn-EoF53DIOBZI1KOVU',
-    appId: '1:504369550146:android:aa3f656f319a4adba6eedb',
-    messagingSenderId: '504369550146',
-    projectId: 'example-20efe',
-    databaseURL: 'https://example-20efe-default-rtdb.firebaseio.com',
-    storageBucket: 'example-20efe.appspot.com',
+    apiKey: '',
+    appId: '',
+    messagingSenderId: '',
+    projectId: '',
+    databaseURL: '',
+    storageBucket: '',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyCEIzMJzPLpR8aRx8GpAjlOjg8yjPrnyZA',
-    appId: '1:504369550146:ios:644238a2cfec4a9fa6eedb',
-    messagingSenderId: '504369550146',
-    projectId: 'example-20efe',
-    databaseURL: 'https://example-20efe-default-rtdb.firebaseio.com',
-    storageBucket: 'example-20efe.appspot.com',
+    apiKey: '',
+    appId: '',
+    messagingSenderId: '',
+    projectId: '',
+    databaseURL: '',
+    storageBucket: '',
     iosBundleId: 'com.rollcake.honeybee',
   );
 }
